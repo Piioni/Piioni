@@ -15,7 +15,7 @@
 - :lock: Advanced cybersecurity in operating technology environments(OT). I am currently learning more about IT Cibersecurity.
 - :milky_way: I Love the Universe!, Self taught in basic astrophysics.
 - :video_game: Video Games!
-
+- <img height=20px src="https://static.vecteezy.com/system/resources/previews/016/716/458/non_2x/spotify-icon-free-png.png"> Music!, <a href="https://open.spotify.com/user/izabellaboo8?si=66eb39b77902435e"> My spotify profile </a>
 
 <!-- - [<img class="spotify" src="https://spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true#gh-dark-mode-only">](https://github.com/joshrandall8478/Spotify-Readme#gh-dark-mode-only) -->
 
