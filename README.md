@@ -22,6 +22,9 @@
 [![Top Langs - dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Piioni&langs_count=10&layout=compact&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs - light](https://github-readme-stats.vercel.app/api/top-langs/?username=Piioni&langs_count=10&layout=compact&count_private=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+## ✈️ My Roadmpaps Progress
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6743be9d5434bf319ab7c8ff?variant=dark&roadmaps=frontend%2Cbackend%2Cjava" alt="roadmap.sh"/></a>
+
 <!-- - [<img class="spotify" src="https://spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true#gh-dark-mode-only">](https://github.com/joshrandall8478/Spotify-Readme#gh-dark-mode-only) -->
 
 <!--
