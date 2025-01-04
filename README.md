@@ -23,8 +23,7 @@
 [![Top Langs - light](https://github-readme-stats.vercel.app/api/top-langs/?username=Piioni&langs_count=10&layout=compact&count_private=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## ✈️ My Roadmaps Progress
-[![roadmap.sh](https://roadmap.sh/card/wide/6743be9d5434bf319ab7c8ff?variant=dark)](https://roadmap.sh)
-<!-- - [<img class="spotify" src="https://spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true#gh-dark-mode-only">](https://github.com/joshrandall8478/Spotify-Readme#gh-dark-mode-only) -->
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6743be9d5434bf319ab7c8ff?variant=dark" alt="roadmap.sh"/></a>
 
 <!--
 - 👋 Hi, I’m @piioni
