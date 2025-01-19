@@ -25,7 +25,7 @@
 ## ✈️ My Roadmaps Progress
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6743be9d5434bf319ab7c8ff?variant=dark" alt="roadmap.sh"/></a>
 
-## Visit count
+## Visit count (Since 20 January 2025)
 
 ![](https://count.getloli.com/@Piioni?theme=rule34)
 
