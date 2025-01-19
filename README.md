@@ -27,7 +27,7 @@
 
 ## Visit count
 
-![](https://count.getloli.com/@Piioni?name=Piioni&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&num=1)
+![](https://count.getloli.com/@Piioni?theme=rule34)
 
 <!--
 - 👋 Hi, I’m @piioni
