@@ -25,6 +25,10 @@
 ## ✈️ My Roadmaps Progress
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6743be9d5434bf319ab7c8ff?variant=dark" alt="roadmap.sh"/></a>
 
+## Visit count
+
+![](https://count.getloli.com/@Piioni?name=Piioni&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&num=1)
+
 <!--
 - 👋 Hi, I’m @piioni
 - 👀 I’m interested in coding basic, yet effective programs
@@ -35,4 +39,6 @@
 - 📫 How to reach me: @Piioni on social media, or piioni.net
 
 **Piioni/Piioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://count.getloli.com/@:Piioni" alt=":visitcounter" />
 -->
