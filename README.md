@@ -23,7 +23,7 @@
 [![Top Langs - light](https://github-readme-stats.vercel.app/api/top-langs/?username=Piioni&langs_count=10&layout=compact&count_private=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## ✈️ My Roadmaps Progress
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6743be9d5434bf319ab7c8ff?variant=dark" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://roadmap.sh/card/wide/6743be9d5434bf319ab7c8ff?variant=dark)](https://roadmap.sh)
 
 <!--
 - 👋 Hi, I’m @piioni
