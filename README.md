@@ -7,9 +7,9 @@
 ## :alien: About Me
 - :frog: My name is Juan Rangel, It's a pleasure!
 - :male_sign: He/him.
-- :mortar_board: I am currently attending Institute FOC doing a Professional training in Computer Science.
-- :space_invader: My main goal is to become a full stack developer. The languages I am currently learning are **CSS, HTML, Java, Python, JavaScript**. In reality, I am just trying to learn everything.
-- :eyes: I am looking to find more projects to collaborate on to learn more syntax, standards, and tricks.
+- :mortar_board: I am currently attending Institute FOC doing a Professional training in Web & App development .
+- :space_invader: My main goal is to become a back-end developer using Spring. The languages I am currently learning are **Java, Python, JavaScript, CSS & HTML, **. In reality, I am just trying to learn everything.
+- :eyes: I’m looking for more projects to collaborate on to improve my understanding of syntax, best practices, and advanced techniques.
 - :lock: Advanced cybersecurity in operating technology environments(OT). I am currently learning more about IT Cibersecurity.
 
 
