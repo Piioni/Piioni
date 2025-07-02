@@ -1,8 +1,8 @@
 # Hi there, Im Piioni 👋
 
 ## 💻 Technologies 
-[![My Skills - dark](https://skillicons.dev/icons?i=arch,java,py,js,html,css,idea,mysql,windows,linux,apple,vscode,aws,github,obsidian,htmx,md,maven,notion,spring,linkedin,discord&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
-[![My Skills - light](https://skillicons.dev/icons?i=arch,java,py,js,html,css,idea,mysql,windows,linux,apple,vscode,aws,github,obsidian,htmx,md,maven,notion,spring,linkedin,discord&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)<br>
+[![My Skills - dark](https://skillicons.dev/icons?i=arch,java,py,php,js,html,css,docker,idea,mysql,maven,spring,symfony,windows,linux,apple,vscode,aws,github,obsidian,htmx,md,notion,linkedin,discord&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![My Skills - light](https://skillicons.dev/icons?i=arch,java,py,php,js,html,css,docker,idea,mysql,maven,spring,symfony,windows,linux,apple,vscode,aws,github,obsidian,htmx,md,notion,linkedin,discord&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)<br>
 
 ## :alien: About Me
 - :frog: My name is Juan Rangel, It's a pleasure!
