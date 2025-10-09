@@ -1,14 +1,14 @@
 # Hi there, Im Piioni 👋
 
 ## 💻 Technologies 
-[![My Skills - dark](https://skillicons.dev/icons?i=arch,java,py,php,js,html,css,docker,idea,mysql,maven,spring,symfony,windows,linux,apple,vscode,aws,github,obsidian,htmx,md,notion,linkedin,discord&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
-[![My Skills - light](https://skillicons.dev/icons?i=arch,java,py,php,js,html,css,docker,idea,mysql,maven,spring,symfony,windows,linux,apple,vscode,aws,github,obsidian,htmx,md,notion,linkedin,discord&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)<br>
+[![My Skills - dark](https://skillicons.dev/icons?i=arch,java,py,php,js,html,css,tailwind,mysql,mongodb,redis,laravel,spring,symfony,vite,nodejs,npm,maven,docker,linux,windows,apple,aws,git,github,vscode,phpstorm,obsidian,htmx,svg,md,notion,linkedin,discord&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![My Skills - light](https://skillicons.dev/icons?i=arch,java,py,php,js,html,css,tailwind,mysql,mongodb,redis,laravel,spring,symfony,vite,nodejs,npm,maven,docker,linux,windows,apple,aws,git,github,vscode,phpstorm,obsidian,htmx,svg,md,notion,linkedin,discord&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)<br>
 
 ## :alien: About Me
 - :frog: My name is Juan Rangel, It's a pleasure!
 - :male_sign: He/him.
 - :mortar_board: I am currently attending Institute FOC doing a Professional training in Web & App development .
-- :space_invader: My main goal is to become a full-stack developer. The languages I am currently learning are **Java, JavaScript, PhP, Python**. In reality, I am just trying to learn a bit of everything.
+- :space_invader: My main goal is to become a full-stack developer. Im currently hard focusing on learning Laravel and Vue.
 - :eyes: I’m looking for more projects to collaborate on to improve my understanding of syntax, best practices, and advanced techniques.
 - :lock: Advanced cybersecurity in operating technology environments(OT). I am currently learning more about IT Cibersecurity.
 
@@ -16,7 +16,7 @@
 ## :fleur_de_lis: My interests 
 - :milky_way: I Love the Universe!, Self taught in basic astrophysics.
 - :video_game: Video Games!
-- <img height=20px src="https://static.vecteezy.com/system/resources/previews/016/716/458/non_2x/spotify-icon-free-png.png"> Music!, <a href="https://open.spotify.com/user/izabellaboo8?si=66eb39b77902435e"> My spotify profile </a>
+- <img height=20px src="https://static.vecteezy.com/system/resources/previews/016/716/458/non_2x/spotify-icon-free-png.png"> Music!, <a href="https://open.spotify.com/user/izabellaboo8?si=66eb39b77902435e"> Spotify profile </a>, <a href="https://tidal.com/@piioni"> Tidal profile </a>
 
 ## :bar_chart: Stats
 [![Top Langs - dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Piioni&langs_count=10&layout=compact&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
