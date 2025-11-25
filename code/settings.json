@@ -1,179 +1,202 @@
 {
-  "editor.fontFamily": "Maple Mono NF CN, Geist Mono, JetBrains Mono, Fira Code",
-  "editor.fontLigatures": true,
-  "editor.fontSize": 16,
-  "editor.fontWeight": "300",
-  "editor.lineHeight": 20,
-  "editor.letterSpacing": 0.5,
-  "editor.padding.top": 14,
-  "editor.wordWrap": "on",
-  "editor.wordWrapColumn": 120,
-  "editor.cursorBlinking": "expand",
-  "editor.formatOnSave": true,
-  "editor.formatOnPaste": true,
-  "editor.mouseWheelZoom": true,
-  "editor.multiCursorModifier": "ctrlCmd",
-  "editor.snippetSuggestions": "top",
-  "editor.lineNumbers": "relative",
-  "editor.matchBrackets": "near",
-  "editor.accessibilitySupport": "off",
-  "editor.hover.delay": 500,
-  "editor.hover.enabled": true,
-  "editor.smoothScrolling": true,
-  "editor.copyWithSyntaxHighlighting": false,
-  "editor.linkedEditing": true,
-  "editor.quickSuggestions": { "strings": true },
+    "editor.fontFamily": "Maple Mono NF",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 15,
+    "editor.fontWeight": "300",
+    "editor.lineHeight": 20,
+    "editor.letterSpacing": 0.5,
+    "editor.padding.top": 14,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.mouseWheelZoom": true,
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 120,
+    "editor.cursorBlinking": "expand",
+    "editor.lineNumbers": "relative",
+    "editor.matchBrackets": "near",
+    "editor.snippetSuggestions": "top",
+    "editor.accessibilitySupport": "off",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.hover.delay": 500,
+    "editor.linkedEditing": true,
+    "editor.smoothScrolling": true,
+    "editor.copyWithSyntaxHighlighting": false,
+    "editor.quickSuggestions": { "strings": true },
 
-  // UI settings
-  "material-icon-theme.folders.color": "#6e7b8c",
-  "material-icon-theme.files.color": "#42a5f5",
+    // UI settings
+    "material-icon-theme.folders.color": "#6e7b8c",
+    "material-icon-theme.files.color": "#42a5f5",
 
-  "workbench.editor.enablePreview": false,
-  "workbench.colorTheme": "One Candy",
-  "workbench.preferredDarkColorTheme": "Hack The Box",
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.editor.empty.hint": "hidden",
-  "workbench.startupEditor": "none",
-  "workbench.tree.indent": 14,
+    "workbench.colorTheme": "One Candy",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editor.empty.hint": "hidden",
+    "workbench.startupEditor": "none",
+    "workbench.tree.indent": 14,
+    "workbench.editor.enablePreview": false,
+    "security.workspace.trust.untrustedFiles": "open",
 
-  "explorer.confirmDragAndDrop": false,
-  "explorer.confirmDelete": false,
-  "explorer.sortOrder": "type",
+    // Explorer settings
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "explorer.sortOrder": "type",
 
-  "files.trimTrailingWhitespace": true,
-  "files.insertFinalNewline": true,
-  "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
 
-  "diffEditor.ignoreTrimWhitespace": false,
-  "security.workspace.trust.untrustedFiles": "open",
+    "diffEditor.ignoreTrimWhitespace": false,
 
-  // Formatter and language settings
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
+    // Integrated Terminal settings
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.fontLigatures.enabled": true,
+    "terminal.integrated.cursorBlinking": true,
 
-  "python.analysis.typeCheckingMode": "standard",
-  "[python]": {
-    "editor.defaultFormatter": "ms-python.black-formatter"
-  },
+    // Prettier
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.trailingComma": "all",
+    "prettier.singleQuote": true,
+    "prettier.printWidth": 120,
+    "prettier.tabWidth": 4,
 
-  "intelephense.environment.phpVersion": "8.4",
-  "[php]": {
-    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
-  },
-  "blade.format.enable": true,
-  "[blade]": {
-    "editor.defaultFormatter": "apility.beautify-blade"
-  },
-
-  // File associations
-  "files.associations": {
-    "*.blade.php": "blade",
-    "*.css": "tailwindcss",
-    ".php_cs": "php",
-    ".php_cs.dist": "php"
-  },
-
-  // Emmet settings
-  "emmet.includeLanguages": {
-    "blade": "html",
-    "vue-html": "html",
-    "vue": "html",
-    "react": "html",
-    "javascript": "html"
-  },
-
-  // Search settings
-  "search.exclude": {
-    "**/vendor/**": true,
-    "**/vendor/laravel/**": false,
-    "**/node_modules": true,
-    "**/dist": true,
-    "**/_ide_helper.php": true,
-    "**/composer.lock": true,
-    "**/package-lock.json": true,
-    "storage/**": true,
-    ".phpunit.result.cache": true
-  },
-
-  // Git copilot settings
-  "github.copilot.nextEditSuggestions.enabled": true,
-  "remote.defaultExtensionsIfInstalledLocally": [
-    "GitHub.copilot",
-    "GitHub.copilot-chat",
-    "GitHub.vscode-pull-request-github"
-  ],
-
-  // CodeSnap settings
-  "codesnap.containerPadding": "2em",
-  "codesnap.boxShadow": "rgba(0, 0, 0, 0.55) 0px 12px 24px",
-  "codesnap.showLineNumbers": false,
-  "codesnap.roundedCorners": true,
-
-  // Random extension settings
-  "ddevManager.showProjectsList": "All Projects",
-  "liveServer.settings.donotShowInfoMsg": true,
-  "liveServer.settings.donotVerifyTags": true,
-  "database-client.autoSync": true,
-  "database-client.telemetry.usesOnlineServices": false,
-  "hediet.vscode-drawio.resizeImages": null,
-  "hediet.vscode-drawio.codeLinkActivated": true,
-  "scm.diffDecorations": "gutter",
-
-  // Vim
-  "vim.leader": " ",
-  "vim.useSystemClipboard": true,
-  "vim.useCtrlKeys": true,
-  "vim.insertModeKeyBindings": [
-    {
-      "before": ["j", "j"],
-      "after": ["<Esc>"]
-    }
-  ],
-  "vim.normalModeKeyBindingsNonRecursive": [
-    {
-      "before": ["<leader>", "e"],
-      "commands": ["workbench.action.toggleSidebarVisibility"]
+    // Language specific settings
+    "python.analysis.autoFormatStrings": true,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
     },
-    {
-      "before": ["<leader>", "n"],
-      "commands": ["explorer.newFile"]
+
+    "intelephense.environment.phpVersion": "8.4",
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
     },
-    {
-      "before": ["<leader>", "N"],
-      "commands": ["explorer.newFolder"]
+
+    // File associations
+    "files.associations": {
+        "*.blade.php": "blade",
+        "*.css": "tailwindcss",
+        ".php_cs": "php",
+        ".php_cs.dist": "php"
     },
-    {
-      "before": ["<leader>", "t"],
-      "commands": ["workbench.action.terminal.toggleTerminal"]
+
+    // Emmet settings
+    "emmet.includeLanguages": {
+        "blade": "html",
+        "vue-html": "html",
+        "vue": "html",
+        "react": "html",
+        "javascript": "html"
     },
-    {
-      "before": ["<leader>", "c", "l"],
-      "commands": ["editor.action.commentLine"]
+
+    // Code Runner settings
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.showExecutionMessage": false,
+
+    // Exclude settings
+    "search.exclude": {
+        "**/vendor/**": true,
+        "**/vendor/laravel/**": false,
+        "**/node_modules": true,
+        "**/dist": true,
+        "**/_ide_helper.php": true,
+        "**/composer.lock": true,
+        "**/package-lock.json": true,
+        "storage/**": true,
+        ".phpunit.result.cache": true
     },
-    {
-      "before": ["<leader>", "r", "r"],
-      "commands": ["editor.action.rename"]
+
+    // Git copilot settings
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "remote.defaultExtensionsIfInstalledLocally": [
+        "GitHub.copilot",
+        "GitHub.copilot-chat",
+        "GitHub.vscode-pull-request-github"
+    ],
+
+    "chat.mcp.gallery.enabled": true,
+    "chat.mcp.serverSampling": {
+        "Global in Code: io.github.github/github-mcp-server": {
+            "allowedModels": ["copilot/gpt-5-mini", "copilot/claude-haiku-4.5"]
+        }
     },
-    {
-      "before": ["K"],
-      "commands": ["editor.action.showHover"]
-    },
-    {
-      "before": ["<leader>", "r", "f"],
-      "commands": ["fileutils.renameFile"]
-    },
-    {
-      "before": ["<leader>", "f", "s"],
-      "commands": ["fuzzySearch.activeTextEditor"]
-    }
-  ],
-  "vim.visualModeKeyBindings": [
-    {
-      "before": ["J"],
-      "commands": ["editor.action.moveLinesDownAction"]
-    },
-    {
-      "before": ["K"],
-      "commands": ["editor.action.moveLinesUpAction"]
-    }
-  ]
+
+    // CodeSnap settings
+    "codesnap.containerPadding": "2em",
+    "codesnap.boxShadow": "rgba(0, 0, 0, 0.55) 0px 12px 24px",
+    "codesnap.showLineNumbers": false,
+    "codesnap.roundedCorners": true,
+
+    // Random extension settings
+    "ddevManager.showProjectsList": "All Projects",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "database-client.autoSync": true,
+    "database-client.telemetry.usesOnlineServices": false,
+    "hediet.vscode-drawio.resizeImages": null,
+    "hediet.vscode-drawio.codeLinkActivated": true,
+    "scm.diffDecorations": "gutter",
+
+    // Vim
+    "vim.leader": " ",
+    "vim.useSystemClipboard": true,
+    "vim.useCtrlKeys": true,
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j", "j"],
+            "after": ["<Esc>"]
+        },
+        {
+            "before": ["J", "J"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": ["<leader>", "e"],
+            "commands": ["workbench.action.toggleSidebarVisibility"]
+        },
+        {
+            "before": ["<leader>", "n"],
+            "commands": ["explorer.newFile"]
+        },
+        {
+            "before": ["<leader>", "N"],
+            "commands": ["explorer.newFolder"]
+        },
+        {
+            "before": ["<leader>", "t"],
+            "commands": ["workbench.action.terminal.toggleTerminal"]
+        },
+        {
+            "before": ["<leader>", "c", "l"],
+            "commands": ["editor.action.commentLine"]
+        },
+        {
+            "before": ["K"],
+            "commands": ["editor.action.showHover"]
+        },
+        {
+            "before": ["<leader>", "r", "f"],
+            "commands": ["fileutils.renameFile"]
+        },
+        {
+            "before": ["<leader>", "f", "s"],
+            "commands": ["fuzzySearch.activeTextEditor"]
+        }
+    ],
+    "vim.visualModeKeyBindings": [
+        {
+            "before": ["<leader>", "S"],
+            "commands": ["codesnap.start"]
+        },
+        {
+            "before": ["J"],
+            "commands": ["editor.action.moveLinesDownAction"]
+        },
+        {
+            "before": ["K"],
+            "commands": ["editor.action.moveLinesUpAction"]
+        }
+    ]
 }
