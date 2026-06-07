@@ -30,28 +30,6 @@ Building practical software with clean structure, solid UX, and just enough chao
 [![Tools - dark](https://skillicons.dev/icons?i=git,docker,mysql,mongodb,redis,linux,vscode,aws,notion,figma,postman&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 [![Tools - light](https://skillicons.dev/icons?i=git,docker,mysql,mongodb,redis,linux,vscode,aws,notion,figma,postman&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
 
-## Featured projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <img src="https://placehold.co/600x320/111827/FFFFFF?text=Veritix" alt="Veritix preview" width="260" />
-      <h3>Veritix</h3>
-      <p>Ticketing-focused product work centered on building practical experiences with a clean, structured approach.</p>
-    </td>
-    <td width="33%" valign="top">
-      <img src="https://opengraph.githubassets.com/1/Piioni/Portfolio" alt="Portfolio preview" width="260" />
-      <h3><a href="https://github.com/Piioni/Portfolio">Portfolio</a></h3>
-      <p>My personal portfolio, where I present my projects, design sensibility, and the way I think about software.</p>
-    </td>
-    <td width="33%" valign="top">
-      <img src="https://opengraph.githubassets.com/1/Piioni/Pegasus-Medical-WebPage" alt="Pegasus Medical preview" width="260" />
-      <h3><a href="https://github.com/Piioni/Pegasus-Medical-WebPage">Pegasus Medical</a></h3>
-      <p>A medical web project focused on polished presentation, solid structure, and a professional frontend feel.</p>
-    </td>
-  </tr>
-</table>
-
 ## How to reach me
 
 Want to talk to me? Ask me something? Share an idea, a project, or just say hi? Sure.
@@ -67,22 +45,13 @@ I’m usually around, although sometimes I take a little while to reply.
 
 ## Beyond code
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation">
-  <tr>
-    <td align="left" valign="middle">
-      <img src="./.github/assets/sprites/link.gif" alt="Link sprite" width="110" />
-    </td>
-    <td align="center" valign="middle">
-      <sub>
-        Music, good games, and thoughtful software.<br/>
-        I’m drawn to clean structure, quiet details, and digital worlds with soul — somewhere between careful craft and Hyrule.
-      </sub>
-    </td>
-    <td align="right" valign="middle">
-      <img src="./.github/assets/sprites/zelda.gif" alt="Zelda sprite" width="110" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./.github/assets/sprites/link.gif" alt="Link sprite" width="92" />
+  &nbsp;&nbsp;
+  <sub>Music, good games, and thoughtful software.<br/>Clean structure, quiet details, and digital worlds with soul — somewhere between careful craft and Hyrule.</sub>
+  &nbsp;&nbsp;
+  <img src="./.github/assets/sprites/zelda.gif" alt="Zelda sprite" width="92" />
+</p>
 
 > "One must imagine Sisyphus happy."
 >
