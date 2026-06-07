@@ -17,8 +17,8 @@ Building practical software with clean structure, solid UX, and just enough chao
 
 ### Languages
 
-[![Languages - dark](https://skillicons.dev/icons?i=dart,kotlin,py,ts,vue,js,java,php,bash,html&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
-[![Languages - light](https://skillicons.dev/icons?i=dart,kotlin,py,ts,vue,js,java,php,bash,html&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+[![Languages - dark](https://skillicons.dev/icons?i=dart,kotlin,py,vue,react,ts,js,java,php,bash,html&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![Languages - light](https://skillicons.dev/icons?i=dart,kotlin,py,vue,react,ts,js,java,php,bash,html&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
 
 ### Frameworks
 
@@ -27,8 +27,8 @@ Building practical software with clean structure, solid UX, and just enough chao
 
 ### Tools
 
-[![Tools - dark](https://skillicons.dev/icons?i=git,github,docker,mysql,mongodb,redis,linux,vscode,phpstorm,postman,aws,notion&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
-[![Tools - light](https://skillicons.dev/icons?i=git,github,docker,mysql,mongodb,redis,linux,vscode,phpstorm,postman,aws,notion&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+[![Tools - dark](https://skillicons.dev/icons?i=git,docker,mysql,mongodb,redis,linux,vscode,aws,notion,figma,postman&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![Tools - light](https://skillicons.dev/icons?i=git,docker,mysql,mongodb,redis,linux,vscode,aws,notion,figma,postman&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
 
 ## Featured projects
 
@@ -57,55 +57,33 @@ Building practical software with clean structure, solid UX, and just enough chao
 Want to talk to me? Ask me something? Share an idea, a project, or just say hi? Sure.
 I’m usually around, although sometimes I take a little while to reply.
 
-<table align="center">
-  <tr>
-    <td align="center" width="20%">
-      <a href="mailto:juanrangel@sipay.es">
-        <img src="./.github/assets/socials/mail.svg" alt="Email" width="56" />
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://www.linkedin.com/in/juan-rangel-002294300/?locale=en-US">
-        <img src="./.github/assets/socials/linkedin.svg" alt="LinkedIn" width="56" />
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://discord.com/users/piioni">
-        <img src="./.github/assets/socials/discord.svg" alt="Discord" width="56" />
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://piioni.github.io/Portfolio">
-        <img src="./.github/assets/socials/web.svg" alt="Website" width="56" />
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://tidal.com/@piioni">
-        <img src="./.github/assets/socials/tidal.svg" alt="TIDAL" width="56" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="mailto:juanrangel@sipay.es"><img src="./.github/assets/socials/mail.svg" alt="Email" width="56" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/juan-rangel-002294300/?locale=en-US"><img src="./.github/assets/socials/linkedin.svg" alt="LinkedIn" width="56" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/piioni"><img src="./.github/assets/socials/discord.svg" alt="Discord" width="56" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://piioni.github.io/Portfolio"><img src="./.github/assets/socials/web.svg" alt="Website" width="56" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://tidal.com/@piioni"><img src="./.github/assets/socials/tidal.svg" alt="TIDAL" width="56" /></a>
+</p>
 
 ## Beyond code
 
-<table align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation">
   <tr>
-    <td align="center" width="25%">
+    <td align="left" valign="middle">
       <img src="./.github/assets/sprites/link.gif" alt="Link sprite" width="110" />
     </td>
-    <td align="center" width="50%">
+    <td align="center" valign="middle">
       <sub>
         Music, good games, and thoughtful software.<br/>
         I’m drawn to clean structure, quiet details, and digital worlds with soul — somewhere between careful craft and Hyrule.
       </sub>
     </td>
-    <td align="center" width="25%">
+    <td align="right" valign="middle">
       <img src="./.github/assets/sprites/zelda.gif" alt="Zelda sprite" width="110" />
     </td>
   </tr>
 </table>
 
-> "Trying to image sisyphus happy
-
-&mdash; `Albert Camus`
+> "One must imagine Sisyphus happy."
+>
+> &mdash; `Albert Camus`
