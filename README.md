@@ -22,8 +22,6 @@ Building practical software with clean structure, solid UX, and just enough chao
   <a href="https://skillicons.dev#gh-light-mode-only"><img src="https://skillicons.dev/icons?i=dart,kotlin,py,vue,react,ts,js,java,php,bash,html&theme=light#gh-light-mode-only" alt="Languages - light" /></a>
 </p>
 
-<br/>
-
 <h3 align="center">Frameworks</h3>
 
 <p align="center">
@@ -31,13 +29,11 @@ Building practical software with clean structure, solid UX, and just enough chao
   <a href="https://skillicons.dev#gh-light-mode-only"><img src="https://skillicons.dev/icons?i=flutter,kotlin,nuxt,tailwind,laravel,spring&theme=light#gh-light-mode-only" alt="Frameworks - light" /></a>
 </p>
 
-<br/>
-
 <h3 align="center">Tools</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev#gh-dark-mode-only"><img src="https://skillicons.dev/icons?i=git,docker,mysql,mongodb,redis,postgres,linux,redhat,vim,vscode,qt,gradle,aws,notion,figma,postman&theme=dark#gh-dark-mode-only" alt="Tools - dark" /></a>
-  <a href="https://skillicons.dev#gh-light-mode-only"><img src="https://skillicons.dev/icons?i=git,docker,mysql,mongodb,redis,postgres,linux,redhat,vim,vscode,qt,gradle,aws,notion,figma,postman&theme=light#gh-light-mode-only" alt="Tools - light" /></a>
+  <a href="https://skillicons.dev#gh-dark-mode-only"><img src="https://skillicons.dev/icons?i=git,docker,mysql,mongodb,redis,postgres,linux,redhat,vim,vscode,qt,gradle,aws,notion,figma,postman&perline=8&theme=dark#gh-dark-mode-only" alt="Tools - dark" /></a>
+  <a href="https://skillicons.dev#gh-light-mode-only"><img src="https://skillicons.dev/icons?i=git,docker,mysql,mongodb,redis,postgres,linux,redhat,vim,vscode,qt,gradle,aws,notion,figma,postman&perline=8&theme=light#gh-light-mode-only" alt="Tools - light" /></a>
 </p>
 
 ## How to reach me
