@@ -45,12 +45,17 @@ I’m usually around, although sometimes I take a little while to reply.
 
 ## Beyond code
 
+<p align="center">The parts of me that quietly shape the way I build.</p>
+
 <p align="center">
-  <img src="./.github/assets/sprites/link.gif" alt="Link sprite" width="92" />
-  &nbsp;&nbsp;
-  <sub>Music, good games, and thoughtful software.<br/>Clean structure, quiet details, and digital worlds with soul — somewhere between careful craft and Hyrule.</sub>
-  &nbsp;&nbsp;
-  <img src="./.github/assets/sprites/zelda.gif" alt="Zelda sprite" width="92" />
+  <img src="./.github/assets/sprites/link.gif" alt="Link sprite" width="88" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./.github/assets/sprites/zelda.gif" alt="Zelda sprite" width="88" />
+</p>
+
+<p align="center">
+    Music, memorable games, open source, and thoughtful software.<br/>
+    I’m drawn to Linux, a growing interest in Nix, quiet details, and digital worlds that feel carefully made.
 </p>
 
 > "One must imagine Sisyphus happy."
