@@ -1,17 +1,17 @@
-# Hey there, im Juan
+# Hey there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70">
 
-**Software Developer at Sipay · SIPOS Team · Payments & POS Integrations**
-
-Building reliable products, clean systems, and interfaces that behave nicely under pressure.
+<p align="center">
+  <img height="50%" width="auto" src="https://streak-stats.demolab.com?user=Piioni&theme=material-palenight&hide_border=true&background=FFFFFF00" />
+</p>
 
 ## About me
 
 I'm a software developer based in Spain, focused on building web products that feel reliable, maintainable, and pleasant to use. I like working where product thinking meets engineering discipline: clear architecture, thoughtful UI, and code that can survive contact with reality.
 
-- 💼 I work at **Sipay**, as part of the **SIPOS** team, integrating payment gateways with point-of-sale systems.
+- 💼 I work at **Sipay**, as part of the **Sipos** team, integrating payment gateways with point-of-sale systems.
 - 🎵 I love music and spend a good amount of time with my headphones on. You can find me on [TIDAL](https://tidal.com/@piioni).
 
-<sub>Building practical software with clean structure, solid UX, and just enough chaos to keep it interesting.</sub>
+Building practical software with clean structure, solid UX, and just enough chaos to keep it interesting.
 
 ## Tech stack
 
@@ -52,23 +52,60 @@ I'm a software developer based in Spain, focused on building web products that f
   </tr>
 </table>
 
-## Find me here
+## How to reach me
 
-<p>
-  <a href="https://www.linkedin.com/in/juan-esteban-rangel-carmona-002294300/?locale=en_US">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
-  </a>
-  <a href="https://piioni.github.io/Portfolio">
-    <img src="https://skillicons.dev/icons?i=webflow&theme=dark" alt="Portfolio" />
-  </a>
-  <a href="https://tidal.com/@piioni">
-    <img src="https://cdn.simpleicons.org/tidal/white" alt="TIDAL" height="48" />
-  </a>
-  <a href="mailto:juanrangel@sipos.ai">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
-  </a>
-</p>
+Want to talk to me? Ask me something? Share an idea, a project, or just say hi? Sure.
+I’m usually around, although sometimes I take a little while to reply.
 
----
+<table align="center">
+  <tr>
+    <td align="center" width="20%">
+      <a href="mailto:juanrangel@sipay.es">
+        <img src="./.github/assets/socials/mail.svg" alt="Email" width="56" />
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.linkedin.com/in/juan-rangel-002294300/?locale=en-US">
+        <img src="./.github/assets/socials/linkedin.svg" alt="LinkedIn" width="56" />
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://discord.com/users/piioni">
+        <img src="./.github/assets/socials/discord.svg" alt="Discord" width="56" />
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://piioni.github.io/Portfolio">
+        <img src="./.github/assets/socials/web.svg" alt="Website" width="56" />
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://tidal.com/@piioni">
+        <img src="./.github/assets/socials/tidal.svg" alt="TIDAL" width="56" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center"><sub><i>Trying to imagine Sisyphus happy.</i></sub></p>
+## Beyond code
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="./.github/assets/sprites/link.gif" alt="Link sprite" width="110" />
+    </td>
+    <td align="center" width="50%">
+      <sub>
+        Music, good games, and thoughtful software.<br/>
+        I’m drawn to clean structure, quiet details, and digital worlds with soul — somewhere between careful craft and Hyrule.
+      </sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./.github/assets/sprites/zelda.gif" alt="Zelda sprite" width="110" />
+    </td>
+  </tr>
+</table>
+
+> "Trying to image sisyphus happy
+
+&mdash; `Albert Camus`
